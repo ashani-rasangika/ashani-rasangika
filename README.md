@@ -13,12 +13,13 @@
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/ashani-rasangika" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="linkedin" src="https://img.shields.io/badge/-💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    <img alt="stack-overflow" src="https://img.shields.io/badge/-🧑‍💻%20Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
