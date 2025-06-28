@@ -2,9 +2,6 @@
 <h3 align="center">🚀 MERN | Next.js Developer | Java | Python Enthusiast</h3>
 
 ---
-<img align="right" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Girl coding gif">
-
-
 
 🔭 I’m currently working on **MERN & Next.js**<br>
 🌱 I’m currently learning **Java, Python**<br>
