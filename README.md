@@ -3,12 +3,22 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="50%">
 🔭 I’m currently working on **MERN & Next.js**<br>
 🌱 I’m currently learning **Java, Python**<br>
 💬 Ask me about **React, MERN stack**<br>
 👨‍💻 All my projects are available at [My Portfolio](https://portfolio-ashani.vercel.app/)<br>
 📫 How to reach me: ashanidewmini33@gmail.com<br>
 ⚡ Fun fact: I turn coffee ☕ into code 💻<br>
+
+</td>
+<td valign="top" width="50%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="illustration" width="80%"/>
+</td>
+</tr>
+</table>
 
 ---
 ## 🌐 Connect with me
