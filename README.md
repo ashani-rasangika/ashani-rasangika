@@ -13,8 +13,8 @@
 ---
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ashani-rasangika" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27252752/21202969/ashani-rasangika" height="40" width="50" /></a><a href="https://www.hackerrank.com/ashanidewmini33" target="_blank">
+<a href="https://linkedin.com/in/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ashani-rasangika" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27252752/21202969/ashani-rasangika" height="40" width="40" /></a><a href="https://www.hackerrank.com/ashanidewmini33" target="_blank">
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 
