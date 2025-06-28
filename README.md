@@ -1,43 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ashani Rasangika Dewmini</h1>
 <h3 align="center">🚀 MERN | Next.js Developer | Java | Python Enthusiast</h3>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+---
 
 🔭 I’m currently working on **MERN & Next.js**<br>
 🌱 I’m currently learning **Java, Python**<br>
 💬 Ask me about **React, MERN stack**<br>
-👨‍💻 All my projects are available at [My Portfolio](#)<br>
+👨‍💻 All my projects are available at [My Portfolio](https://portfolio-ashani.vercel.app/)<br>
 📫 How to reach me: ashanidewmini33@gmail.com<br>
-⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 😄<br>
-
-</td>
-<td valign="top" width="50%">
-  <img src="https://cdn.dribbble.com/users/1787323/screenshots/14403967/media/44eb5671cb1050af4737d7bd3fc91802.gif" alt="girl coding" width="80%"/>
-</td>
-
-</tr>
-</table>
-
+⚡ Fun fact: I turn coffee ☕ into code 💻<br>
 ---
 
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/ashani-rasangika" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="_blank">
-    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/ashani.rasangika" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
@@ -62,4 +44,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ashani-rasangika&icon=0&color=0" />
 </p>
-
