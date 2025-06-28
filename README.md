@@ -14,7 +14,8 @@
 
 </td>
 <td valign="top" width="50%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="illustration" width="80%"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="illustration" width="80%"/>
+
 </td>
 </tr>
 </table>
