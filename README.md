@@ -12,14 +12,10 @@
 
 ---
 
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/ashani-rasangika" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  </a>
+<p align="left">
+<a href="https://linkedin.com/in/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ashani-rasangika" height="40" width="50" /></a>
+<a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27252752/21202969/ashani-rasangika" height="40" width="50" /></a>
+
 </p>
 
 ---
