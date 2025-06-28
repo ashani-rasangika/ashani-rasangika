@@ -14,9 +14,8 @@
 
 </td>
 <td valign="top" width="50%">
-<img src="https://user-images.githubusercontent.com/76810776/194715430-0ea31bde-82eb-43f6-917b-4f8471f0e884.svg" alt="illustration" width="80%"/>
+  <img src="https://cdn.dribbble.com/users/1787323/screenshots/14403967/media/44eb5671cb1050af4737d7bd3fc91802.gif" alt="girl coding" width="80%"/>
 </td>
-
 
 </tr>
 </table>
