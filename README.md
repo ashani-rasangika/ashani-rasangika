@@ -14,7 +14,7 @@
 
 </td>
 <td valign="top" width="50%">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="illustration" width="80%"/>
+<img src="https://undraw.co/api/illustrations/8cdbed04-3a3e-40e6-8db7-888b9c8fc5e3" alt="illustration" width="80%"/>
 
 </td>
 </tr>
