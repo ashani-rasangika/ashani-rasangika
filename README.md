@@ -14,7 +14,7 @@
 
 </td>
 <td valign="top" width="50%">
-<img src="https://undraw.co/api/illustrations/8cdbed04-3a3e-40e6-8db7-888b9c8fc5e3" alt="illustration" width="80%"/>
+<img src="https://user-images.githubusercontent.com/76810776/194706477-062b8d70-09c3-49f4-b07d-14bcbb157ccd.svg" alt="illustration" width="80%"/>
 
 </td>
 </tr>
