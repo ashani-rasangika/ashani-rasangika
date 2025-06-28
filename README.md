@@ -3,10 +3,12 @@
 
 ---
 
-🌱 I’m currently working on **MERN & Next.js**  
-💻 I’m learning **Java, Python**  
-💬 Ask me about **React, MERN stack**  
-📫 Reach me at **ashanidewmini33@gmail.com**
+🔭 I’m currently working on **MERN & Next.js**<br>
+🌱 I’m currently learning **Java, Python**<br>
+💬 Ask me about **React, MERN stack**<br>
+👨‍💻 All my projects are available at [My Portfolio](https://portfolio-ashani.vercel.app/)<br>
+📫 How to reach me: ashanidewmini33@gmail.com<br>
+⚡ Fun fact: I turn coffee ☕ into code 💻<br>
 
 ---
 
