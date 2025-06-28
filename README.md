@@ -2,7 +2,8 @@
 <h3 align="center">🚀 MERN | Next.js Developer | Java | Python Enthusiast</h3>
 
 ---
-<img align="right" width="370" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674579769890/6_xGUnJcD.gif" alt="Laptop coding gif">
+<img align="right" width="370" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674588609690/AAsRaWIG3.gif" alt="Girl coding gif">
+
 
 
 🔭 I’m currently working on **MERN & Next.js**<br>
