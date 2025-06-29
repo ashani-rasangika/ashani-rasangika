@@ -2,8 +2,11 @@
   <img src="https://i.postimg.cc/kXZW07sW/dewbanner2.png" alt="Masterimg" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Ashani Rasangika Dewmini</h1>
-<h3 align="center">🚀 MERN | Next.js Developer | Java | Python Enthusiast</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ashani Rasangika Dewmini</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Java+%7C+Python;Open+Source+Contributor;Passionate+Coder+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 <img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Coding.gif">
 
@@ -16,11 +19,12 @@
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/ashani-rasangika" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" />
+  <a href="https://linkedin.com/in/ashani-rasangika" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="30" />
+  <a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
   </a>
   <a href="https://www.hackerrank.com/ashanidewmini33" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
