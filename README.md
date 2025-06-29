@@ -50,6 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ashani-rasangika&icon=5&color=12" />
+  <img src="https://komarev.com/ghpvc/?username=ashani-rasangika&style=flat-square&color=ff69b4" alt="profile views"/>
 </p>
+
 
