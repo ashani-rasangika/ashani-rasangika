@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://i.postimg.cc/DztbJ09g/dewbanner1.png" alt="Masterimg" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Ashani Rasangika Dewmini</h1>
 <h3 align="center">🚀 MERN | Next.js Developer | Java | Python Enthusiast</h3>
 
