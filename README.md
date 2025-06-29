@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashani Rasangika Dewmini</h1>
 <h3 align="center">🚀 MERN | Next.js Developer | Java | Python Enthusiast</h3>
 
----
+
 
 🔭 I’m currently working on **MERN & Next.js**<br>
 🌱 I’m currently learning **Java, Python**<br>
