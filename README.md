@@ -40,12 +40,13 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashani-rasangika&show_icons=true&theme=dark&hide_border=false&title_color=ff79c6&text_color=f8f8f2&icon_color=50fa7b&border_color=ff79c6" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashani-rasangika&show_icons=true&theme=dark&hide_border=false&title_color=ff79c6&text_color=66d9ef&icon_color=50fa7b&border_color=ff79c6" alt="stats"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashani-rasangika&theme=dark&hide_border=false&ring=ff79c6&fire=ff79c6&currStreakLabel=50fa7b" alt="streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashani-rasangika&layout=compact&theme=dark&hide_border=false&title_color=ff79c6&text_color=f8f8f2&border_color=ff79c6" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashani-rasangika&layout=compact&theme=dark&hide_border=false&title_color=ff79c6&text_color=66d9ef&border_color=ff79c6" alt="top langs"/>
 </p>
+
 
 ---
 
