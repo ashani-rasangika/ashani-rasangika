@@ -50,8 +50,17 @@
 ---
 
 <p align="center">
-  <strong>Thanks for visiting my profile 💖</strong>
+  <strong>
+    <span style="color:#ff79c6; font-size:20px;">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+      Profile views since June 2025 💖
+    </span>
+  </strong>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashani-rasangika&style=flat-square&color=ff79c6" alt="profile views"/>
+</p>
+
 
 
 
