@@ -46,7 +46,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashani-rasangika&layout=compact&theme=dark&hide_border=false&title_color=ff79c6&text_color=66d9ef&border_color=ff79c6" alt="top langs"/>
 </p>
-
 ---
 
 <p align="center">
