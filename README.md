@@ -50,5 +50,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ashani-rasangika&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=ashani-rasangika&icon=5&color=12" />
 </p>
+
