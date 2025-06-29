@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20views-{{%20hits%20}}-ff69b4?style=flat" alt="profile views"/>
+  <strong>Thanks for visiting my profile 💖</strong>
 </p>
 
 
