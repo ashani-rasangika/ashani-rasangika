@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/kXZW07sW/dewbanner2.png" alt="Masterimg" />
+  <img src="https://i.postimg.cc/pLY2Yvkf/dewbanner3.png" alt="Masterimg" />
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ashani Rasangika Dewmini</h1>
