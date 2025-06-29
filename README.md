@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.postimg.cc/kXZW07sW/dewbanner2.png" alt="Masterimg" />
+  <img src="https://i.postimg.cc/kXZW07sW/dewbanner2.png" alt="Masterimg" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Ashani Rasangika Dewmini</h1>
@@ -14,17 +14,18 @@
 📫 How to reach me: ashanidewmini33@gmail.com<br>
 ⚡ Fun fact: I turn coffee ☕ into code 💻<br>
 
----
 ## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ashani-rasangika" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27252752/21202969/ashani-rasangika" height="30" width="30" /></a><a href="https://www.hackerrank.com/ashanidewmini33" target="_blank">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/ashani-rasangika" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="https://stackoverflow.com/users/21202969/ashani-rasangika" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="30" />
+  </a>
+  <a href="https://www.hackerrank.com/ashanidewmini33" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
 </p>
-
----
 
 ## 💻 Tech Stack
 <p align="center">
@@ -47,4 +48,3 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ashani-rasangika&icon=0&color=0" />
 </p>
-
