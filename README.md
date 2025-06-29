@@ -14,7 +14,7 @@
 📫 How to reach me: ashanidewmini33@gmail.com<br>
 ⚡ Fun fact: I turn coffee ☕ into code 💻<br>
 
--
+---
 ## 🌐 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ashani-rasangika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ashani-rasangika" height="30" width="30" /></a>
@@ -24,14 +24,14 @@
 
 </p>
 
--
+---
 
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,python,c,cpp,php,spring,vue,figma,bootstrap,azure,firebase,git,postman,linux" /><br/>
 </p>
 
--
+---
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashani-rasangika&layout=compact&theme=dark&hide_border=false" alt="top langs"/>
 </p>
 
--
+---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ashani-rasangika&icon=0&color=0" />
