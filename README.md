@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashani-rasangika&style=flat-square&color=ff69b4" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Profile%20views-{{%20hits%20}}-ff69b4?style=flat" alt="profile views"/>
 </p>
 
 
